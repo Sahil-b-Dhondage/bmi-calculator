@@ -1,0 +1,33 @@
+body {
+    background-color: #87CEEB;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #40E0D0;
+    color: black;
+    border-bottom: 2px dotted black;
+}
+
+.container {
+    border: 2px dotted black;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+#resultCard {
+    display: none;
+}
+
+h2 {
+    color: #00008B;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
